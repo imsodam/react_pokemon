@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imsodam/react_pokemon/static/css/main.f9419820.css",
+    "main.js": "/imsodam/react_pokemon/static/js/main.eef0495e.js",
+    "index.html": "/imsodam/react_pokemon/index.html",
+    "main.f9419820.css.map": "/imsodam/react_pokemon/static/css/main.f9419820.css.map",
+    "main.eef0495e.js.map": "/imsodam/react_pokemon/static/js/main.eef0495e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9419820.css",
+    "static/js/main.eef0495e.js"
+  ]
+}
